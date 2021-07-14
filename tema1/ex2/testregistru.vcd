@@ -1,0 +1,241 @@
+$date
+	Sat Oct 17 17:22:18 2020
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module test_registru $end
+$var wire 4 ! dataout [3:0] $end
+$var reg 1 " DEC $end
+$var reg 1 # EN $end
+$var reg 1 $ INC $end
+$var reg 1 % RESET $end
+$var reg 1 & SHL $end
+$var reg 1 ' SHR $end
+$var reg 1 ( clk $end
+$var reg 4 ) datain [3:0] $end
+$scope module r $end
+$var wire 1 " DEC $end
+$var wire 1 # EN $end
+$var wire 1 $ INC $end
+$var wire 1 % RESET $end
+$var wire 1 & SHL $end
+$var wire 1 ' SHR $end
+$var wire 1 ( clk $end
+$var wire 4 * datain [3:0] $end
+$var reg 4 + dataout [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+bx +
+bx *
+bx )
+0(
+0'
+0&
+0%
+0$
+1#
+0"
+bx !
+$end
+#1
+1(
+#2
+0(
+#3
+1(
+#4
+0(
+#5
+b1 !
+b1 +
+1(
+b1 )
+b1 *
+#6
+0(
+#7
+1(
+#8
+0(
+#9
+1(
+#10
+0(
+b1010 )
+b1010 *
+#11
+b1010 !
+b1010 +
+1(
+#12
+0(
+#13
+1(
+#14
+0(
+#15
+1(
+b100 )
+b100 *
+0#
+#16
+0(
+#17
+1(
+#18
+0(
+#19
+1(
+#20
+0(
+b1 )
+b1 *
+1&
+#21
+b100 !
+b100 +
+1(
+#22
+0(
+#23
+b1000 !
+b1000 +
+1(
+#24
+0(
+#25
+b1001 !
+b1001 +
+1(
+b1010 )
+b1010 *
+1$
+#26
+0(
+#27
+b1010 !
+b1010 +
+1(
+#28
+0(
+#29
+b1011 !
+b1011 +
+1(
+#30
+0(
+b100 )
+b100 *
+1#
+#31
+b100 !
+b100 +
+1(
+#32
+0(
+#33
+1(
+#34
+0(
+#35
+b0 !
+b0 +
+1(
+b1 )
+b1 *
+1%
+#36
+0(
+#37
+1(
+#38
+0(
+#39
+1(
+#40
+0(
+b1010 )
+b1010 *
+1'
+#41
+1(
+#42
+0(
+#43
+1(
+#44
+0(
+#45
+b100 !
+b100 +
+1(
+b100 )
+b100 *
+0%
+#46
+0(
+#47
+1(
+#48
+0(
+#49
+1(
+#50
+0(
+b1 )
+b1 *
+1"
+#51
+b1 !
+b1 +
+1(
+#52
+0(
+#53
+1(
+#54
+0(
+#55
+b10 !
+b10 +
+1(
+b1010 )
+b1010 *
+0#
+#56
+0(
+#57
+b11 !
+b11 +
+1(
+#58
+0(
+#59
+b100 !
+b100 +
+1(
+#60
+0(
+#61
+b101 !
+b101 +
+1(
+#62
+0(
+#63
+b110 !
+b110 +
+1(
+#64
+0(
+#65
+b111 !
+b111 +
+1(
